@@ -7,6 +7,6 @@ Proyecto del periodo #1. Programando el ESP32
 
 Damos la bienvenida a todos los colaboradores 💙
 
-- **Ferreyra Gastón**. Estudiante de Desarrollo Web [Ver Github](https://github.com/gastonloco).
+- **Ferreyra Gastón**. Estudiante de TSDWAD & Telecomunicaciones [Ver Github](https://github.com/gastonloco).
 
 --- 
