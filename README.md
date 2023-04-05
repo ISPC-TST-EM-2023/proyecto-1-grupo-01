@@ -11,7 +11,7 @@ Damos la bienvenida a todos los colaboradores 💙
 - **Alan Pierola**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/alancodigo)
 - **Joaquinn31**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Joaquinn31)
 - **Florencia Arias**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/cande2323)
-- **Ulises Alejandro**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/ulisesaale)
+- **Ulises Ale**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/ulisesaale)
 - **esgramoy**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/esgramoy)
 - **Agustin Correag**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Agustincorreag91https://github.com/)
 - **Matias Humaran**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Malvatyan)
