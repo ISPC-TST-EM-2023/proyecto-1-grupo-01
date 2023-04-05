@@ -6,7 +6,7 @@ Proyecto del periodo #1. Programando el ESP32
 ## Integrantes
 
 Damos la bienvenida a todos los colaboradores 💙
-- **Joaquin Corta**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/jacoFPV).
+- **Joaquin Cortabarria**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/jacoFPV).
 - **Octavio Castro**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/OctavioXeOc)
 - **Alan Pierola**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/alancodigo)
 - **Joaquinn31**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Joaquinn31)
