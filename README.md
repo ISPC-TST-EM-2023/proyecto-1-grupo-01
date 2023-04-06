@@ -12,7 +12,7 @@ Damos la bienvenida a todos los colaboradores 💙
 - **Joaquinn31**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Joaquinn31)
 - **Florencia Arias**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/cande2323)
 - **Ulises Ale**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/ulisesaale)
-- **esgramoy**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/esgramoy)
+- **Elias Saul Gramoy**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/esgramoy)
 - **Agustin Correag**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Agustincorreag91https://github.com/)
 - **Matias Humaran**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Malvatyan)
 - **Ferreyra Gastón**. Estudiante de TSDWAD & Telecomunicaciones [Ver Github](https://github.com/gastonloco).
@@ -30,6 +30,5 @@ Damos la bienvenida a todos los colaboradores 💙
 ## Carpeta Hardware ( prototipos / simulación)
 
 ## Carpeta Software (Bibliotecas / Recursos / Código)
-
 
 ## Carpeta implementación ( Dispositivo funcional )
