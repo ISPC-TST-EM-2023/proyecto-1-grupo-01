@@ -30,3 +30,7 @@ Damos la bienvenida a todos los colaboradores 💙
 ## Carpeta scrESP32 (Documentación del ESP32)
 
 ## Carpeta Hardware ( prototipos / simulación)
+
+## Carpeta Software (Bibliotecas / Recursos / Código)
+
+## Carpeta implementación ( Dispositivo funcional )
