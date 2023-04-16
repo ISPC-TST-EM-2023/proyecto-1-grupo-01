@@ -1,6 +1,27 @@
-documentacion del ESP32
-¿Que es el ESP32? 
+# ¿Que es el ESP32? 
 
-El ESP32 es un microcontrolador de bajo costo y bajo consumo energético desarrollado por Espressif Systems. Es un chip altamente integrado, diseñado para aplicaciones de Internet de las cosas (IoT) y aplicaciones integradas. El ESP32 combina una CPU de doble núcleo con conectividad Wi-Fi y Bluetooth, lo que lo hace ideal para una amplia variedad de aplicaciones, como robótica, automatización del hogar, monitoreo ambiental, dispositivos portátiles y más.
+## Trabajo Práctico Integrador
 
+
+### ESP32
+
+--- 
+<p align="center">
+Es un microcontrolador de bajo costo y bajo consumo energético desarrollado por Espressif Systems. Es un chip altamente integrado, diseñado para aplicaciones de Internet de las cosas (IoT) y aplicaciones integradas. El ESP32 combina una CPU de doble núcleo con conectividad Wi-Fi y Bluetooth, lo que lo hace ideal para una amplia variedad de aplicaciones, como robótica, automatización del hogar, monitoreo ambiental, dispositivos portátiles y más.
+</p>
+<br>
+<p align="center">
 El ESP32 también incluye una serie de periféricos integrados, como GPIO (General Purpose Input/Output), UART (Universal Asynchronous Receiver/Transmitter), I2C (Inter-Integrated Circuit), SPI (Serial Peripheral Interface), y ADC (Analog-to-Digital Converter), entre otros, lo que lo convierte en una plataforma versátil para el desarrollo de proyectos electrónicos y de programación. Además, su compatibilidad con Arduino y otros entornos de desarrollo facilita la creación de prototipos y proyectos basados en ESP32.
+</p>
+
+### Taller Mecanico Autoit " Desktop - Header"
+
+--- 
+
+<p align="center">
+  <a>
+    <img alt="Edit on CodeSandbox" src="https://github.com/gastonloco/Grupo2-FRBA_192-Trabajo-Integrador/blob/main/img/img-header.png">
+  </a>
+</p>
+
+<br> 
