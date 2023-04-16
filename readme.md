@@ -25,10 +25,8 @@ Damos la bienvenida a todos los colaboradores 💙
 
 --- 
 
-## Carpeta Bibliografía (Documentación del ESP32)
+## Carpeta A_Material Aulico ( Fichas, Desarrollo del trabajo, etc )
+## Carpeta B_Bibliografía (Documentación del ESP32)
 
-## Carpeta Material Aulico ( Fichas, Desarrollo del trabajo, etc )
-
-## Carpeta Ampliación (Plataformas u otros módulos programables)
-
-## Carpeta Proyecto ( Sobre el desarollo del mismo mismo)
+## Carpeta C_Ampliación (Plataformas u otros módulos programables)
+## Carpeta D_Proyecto ( Sobre el desarollo del mismo mismo)
