@@ -20,7 +20,7 @@ El ESP32 también incluye una serie de periféricos integrados, como GPIO (Gener
 
 <p align="center" white=80%>
   <a>
-    <img alt="Edit on CodeSandbox" src="https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/main/imagenes/ESP32.jpg">
+    <img alt="Edit on CodeSandbox" src="https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/master/imagenes/ESP32.jpg">
   </a>
 </p>
 
