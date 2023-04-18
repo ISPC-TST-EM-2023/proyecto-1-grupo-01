@@ -1,6 +1,7 @@
 # Electrónica Microcontrolada - TST - 2023
 Proyecto del periodo #1. Programando el ESP32
-
+ 
+ 
 ## Integrantes
 
 Damos la bienvenida a todos los colaboradores 💙
