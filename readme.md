@@ -21,7 +21,11 @@ Damos la bienvenida a todos los colaboradores 💙
 - **Cristian Gonzalo Vera**. Prof. politecnico de Cordoba y desarrolador de IoT. [Ver Github](https://github.com/Gona79).
 
 ## Año
+<<<<<<< HEAD
 **2023**
+=======
+   2023
+>>>>>>> master
 
 ## Carpeta A_Material Aulico
 
