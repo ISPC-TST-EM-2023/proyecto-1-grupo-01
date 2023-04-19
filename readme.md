@@ -32,6 +32,7 @@ Damos la bienvenida a todos los colaboradores 💙
 - **Ulises Ale**
 - **Agustin Correa**
 
+
 ### Scrum Master
 
 - **Matias Humaran**
