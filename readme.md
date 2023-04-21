@@ -22,7 +22,7 @@ Damos la bienvenida a todos los colaboradores 💙
 - **Cristian Gonzalo Vera**. Prof. politecnico de Cordoba y desarrolador de IoT. [Ver Github](https://github.com/Gona79).
 
 ## Año
-   2023
+   Abril 2023
 
 ## Carpeta C_Ampliacion
 
