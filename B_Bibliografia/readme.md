@@ -1,0 +1,1 @@
+ESP32WROOM32 Datasheet descargada del sitio oficial. Version 3.4 Espressif Systems Copyright © 2023
