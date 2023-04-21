@@ -24,10 +24,6 @@ Damos la bienvenida a todos los colaboradores 💙
 ## Año
    2023
 
-## Carpeta A_Material Aulico
-
-## Carpeta B_Bibliografia
-
 ## Carpeta C_Ampliacion
 
 ## Carpeta D_Proyecto
