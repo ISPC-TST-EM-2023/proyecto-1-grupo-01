@@ -24,7 +24,7 @@ Damos la bienvenida a todos los colaboradores 💙
 
 --- 
 
-## Equipo SCRUM
+## Equipo SCRUM 2023
 
 ### Development Team
 
