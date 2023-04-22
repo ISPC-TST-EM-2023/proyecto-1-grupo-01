@@ -22,6 +22,8 @@ Damos la bienvenida a todos los colaboradores 💙
 
 - **Cristian Gonzalo Vera**. Prof. politecnico de Cordoba y desarrolador de IoT. [Ver Github](https://github.com/Gona79).
 
+--- 
+
 ## Equipo SCRUM
 
 ### Development Team
@@ -34,11 +36,12 @@ Damos la bienvenida a todos los colaboradores 💙
 - **Ulises Ale**
 - **Agustin Correa**
 
-
+--- 
 ### Scrum Master
 
 - **Matias Humaran**
 
+--- 
 ### Product Owner
 
 - **Ferreyra Gastón**
