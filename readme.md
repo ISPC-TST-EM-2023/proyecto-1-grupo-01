@@ -4,7 +4,7 @@
 Proyecto del periodo #1. Programando el ESP32
  
  
-## Integrantes
+## Integrantes Grupo 1          
 
 Damos la bienvenida a todos los colaboradores 💙
 - **Joaquin Emiliano Cortabarria**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/joacorta).
@@ -31,8 +31,18 @@ Damos la bienvenida a todos los colaboradores 💙
 
 ## Equipo SCRUM 2023
 
-### Development Team
+--- 
+### Product Owner
 
+- **Ferreyra Gastón**
+
+--- 
+### Scrum Master
+
+- **Matias Humaran**
+
+--- 
+### Development Team
 
 - **Joaquin Emiliano Cortabarria**
 - **Octavio Castro**
@@ -41,15 +51,5 @@ Damos la bienvenida a todos los colaboradores 💙
 - **Florencia Arias**
 - **Ulises Ale**
 - **Agustin Correa**
-
---- 
-### Scrum Master
-
-- **Matias Humaran**
-
---- 
-### Product Owner
-
-- **Ferreyra Gastón**
 
 --- 
