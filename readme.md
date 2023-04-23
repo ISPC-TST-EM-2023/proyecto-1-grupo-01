@@ -3,8 +3,8 @@
 # Electrónica Microcontrolada - TST - 2023
 Proyecto del periodo #1. Programando el ESP32
  
- 
-## Integrantes
+
+## Integrantes Grupo 1          
 
 Damos la bienvenida a todos los colaboradores 💙
 - **Joaquin Emiliano Cortabarria**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/joacorta).
@@ -17,22 +17,25 @@ Damos la bienvenida a todos los colaboradores 💙
 - **Matias Humaran**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/Malvatyan)
 - **Ferreyra Gastón**. Estudiante de TSDWAD & Telecomunicaciones [Ver Github](https://github.com/gastonloco).
 
---- 
+
 
 ## Docente
 
 - **Cristian Gonzalo Vera**. Prof. politecnico de Cordoba y desarrolador de IoT. [Ver Github](https://github.com/Gona79).
 
- 
-## Año
- Abril 2023
-=======
---- 
 
 ## Equipo SCRUM 2023
 
-### Development Team
 
+### Product Owner
+
+- **Ferreyra Gastón**
+
+### Scrum Master
+
+- **Matias Humaran**
+
+### Development Team
 
 - **Joaquin Emiliano Cortabarria**
 - **Octavio Castro**
@@ -43,13 +46,24 @@ Damos la bienvenida a todos los colaboradores 💙
 - **Agustin Correa**
 
 --- 
-### Scrum Master
 
-- **Matias Humaran**
+### 🎥 Listado de videos
 
---- 
-### Product Owner
+<!-- YT:START -->
+- [Video demostración: Product Owner (Ferreyra Gastón)][video1]
+- [Video demostración: Scrum Master (Matias Humaran)][video2]
+- [Video demostración: Scrum Team (Ulises Ale)][video3]
+- [Video demostración: Scrum Team (Joaquin Dorgnach)][video4]
+- [Video demostración: Scrum Team (Florencia Arias)][video5]
+- [Video demostración: Scrum Team (Alan Pierola)][video6]
+<!-- YT:END -->
 
-- **Ferreyra Gastón**
 
---- 
+---
+[video1]: https://www.youtube.com/watch?v=jiJkwRlExsE
+[video2]: https://www.youtube.com/watch?v=HXS5RiXmF7U
+[video3]: https://www.youtube.com/watch?v=MSoVLNoIxQ8
+[video4]: https://www.youtube.com/watch?v=79ER_k4Qr2E
+[video5]: https://www.youtube.com/watch?v=kHgwKReGjzA
+[video6]: https://www.youtube.com/watch?v=gh8z8eFezkI
+ 
