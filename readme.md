@@ -58,6 +58,7 @@ Damos la bienvenida a todos los colaboradores 💙
 - [Video Scrum Team (Alan Pierola)][video6]
 - [Video Scrum Team (Joaquin Cortabarria)][video7]
 - [Video Scrum Team (Agustin Correa)][video8]
+- [Video Scrum Team (Octavio Castro)][video9]
 <!-- YT:END -->
 
 
@@ -70,3 +71,4 @@ Damos la bienvenida a todos los colaboradores 💙
 [video6]: https://www.youtube.com/watch?v=gh8z8eFezkI
 [video7]: https://www.youtube.com/watch?v=oN_mUHlPYnc
 [video8]: https://www.youtube.com/watch?v=M5kWhDkbPLY
+[video9]: https://www.youtube.com/watch?v=1StTDQNnnkg
