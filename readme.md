@@ -3,7 +3,7 @@
 # Electrónica Microcontrolada - TST - 2023
 Proyecto del periodo #1. Programando el ESP32
  
- 
+ --- 
 ## Integrantes Grupo 1          
 
 Damos la bienvenida a todos los colaboradores 💙
@@ -23,6 +23,7 @@ Damos la bienvenida a todos los colaboradores 💙
 
 - **Cristian Gonzalo Vera**. Prof. politecnico de Cordoba y desarrolador de IoT. [Ver Github](https://github.com/Gona79).
 
+--- 
 ## Equipo SCRUM 2023
 
 --- 
