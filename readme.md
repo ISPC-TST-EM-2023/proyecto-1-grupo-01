@@ -61,7 +61,7 @@ Damos la bienvenida a todos los colaboradores 💙
 
 ---
 [video1]: https://www.youtube.com/watch?v=jiJkwRlExsE
-[video2]: 
+[video2]: https://www.youtube.com/watch?v=HXS5RiXmF7U
 [video3]: 
 [video4]: 
 [video5]: 
