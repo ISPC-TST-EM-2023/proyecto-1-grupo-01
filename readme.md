@@ -55,7 +55,7 @@ Damos la bienvenida a todos los colaboradores 💙
 - [Video demostración: Scrum Team(Ulises Ale)][video3]
 - [Video demostración: Scrum Team(Joaquin Dorgnach)][video4]
 - [Video demostración: Scrum Team(Florencia Arias)][video5]
-- [Video demostración: Scrum Team][video6]
+- [Video demostración: Scrum Team(Alan Pierola)][video6]
 <!-- YT:END -->
 
 
@@ -65,5 +65,5 @@ Damos la bienvenida a todos los colaboradores 💙
 [video3]: https://www.youtube.com/watch?v=MSoVLNoIxQ8
 [video4]: https://www.youtube.com/watch?v=79ER_k4Qr2E
 [video5]: https://www.youtube.com/watch?v=kHgwKReGjzA
-[video6]: 
-[video7]: 
+[video6]: https://www.youtube.com/watch?v=gh8z8eFezkI
+ 
