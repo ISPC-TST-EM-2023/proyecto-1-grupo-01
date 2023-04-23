@@ -37,7 +37,7 @@ Damos la bienvenida a todos los colaboradores 💙
 
 ### Development Team
 
-- **Joaquin Emiliano Cortabarria**
+- **Joaquin Cortabarria**
 - **Octavio Castro**
 - **Alan Pierola**
 - **Joaquin Dorgnach**
@@ -56,6 +56,7 @@ Damos la bienvenida a todos los colaboradores 💙
 - [Video Scrum Team (Joaquin Dorgnach)][video4]
 - [Video Scrum Team (Florencia Arias)][video5]
 - [Video Scrum Team (Alan Pierola)][video6]
+- [Video Scrum Team (Joaquin Cortabarria)][video7]
 <!-- YT:END -->
 
 
@@ -66,4 +67,4 @@ Damos la bienvenida a todos los colaboradores 💙
 [video4]: https://www.youtube.com/watch?v=79ER_k4Qr2E
 [video5]: https://www.youtube.com/watch?v=kHgwKReGjzA
 [video6]: https://www.youtube.com/watch?v=gh8z8eFezkI
- 
+[video7]:  https://www.youtube.com/watch?v=oN_mUHlPYnc
