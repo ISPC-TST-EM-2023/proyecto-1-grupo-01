@@ -47,15 +47,15 @@ Damos la bienvenida a todos los colaboradores 💙
 
 --- 
 
-### 🎥 Listado de videos
+### 🎥 Listado de videos - Presentación Grupal
 
 <!-- YT:START -->
-- [Video demostración: Product Owner (Ferreyra Gastón)][video1]
-- [Video demostración: Scrum Master (Matias Humaran)][video2]
-- [Video demostración: Scrum Team (Ulises Ale)][video3]
-- [Video demostración: Scrum Team (Joaquin Dorgnach)][video4]
-- [Video demostración: Scrum Team (Florencia Arias)][video5]
-- [Video demostración: Scrum Team (Alan Pierola)][video6]
+- [Video Product Owner (Ferreyra Gastón)][video1]
+- [Video Scrum Master (Matias Humaran)][video2]
+- [Video Scrum Team (Ulises Ale)][video3]
+- [Video Scrum Team (Joaquin Dorgnach)][video4]
+- [Video Scrum Team (Florencia Arias)][video5]
+- [Video Scrum Team (Alan Pierola)][video6]
 <!-- YT:END -->
 
 
