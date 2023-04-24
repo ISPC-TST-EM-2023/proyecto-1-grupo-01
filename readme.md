@@ -3,6 +3,7 @@
 # Electrónica Microcontrolada - TST - 2023
 Proyecto del periodo #1. Programando el ESP32
  
+<img src="https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/master/imagenes/logo2.png" align="left" height="300">
 
 ## Integrantes Grupo 1          
 
