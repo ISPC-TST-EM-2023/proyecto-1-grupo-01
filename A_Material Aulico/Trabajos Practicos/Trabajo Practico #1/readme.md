@@ -2,7 +2,6 @@
 
 <img src="https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/master/imagenes/logo2.png" align="left" height="300">
 
-
 ## Objetivos:
 
 - Adquirir los materiales que se utilizaran durante el curso
@@ -37,7 +36,7 @@
 
 2. Además, poder actuar sobre
 
--4 Salidas Digitales
+- 4 Salidas Digitales
 
 3. Todo esto se debe implementar sobre un dashboard acorde definido por el
 PO.
