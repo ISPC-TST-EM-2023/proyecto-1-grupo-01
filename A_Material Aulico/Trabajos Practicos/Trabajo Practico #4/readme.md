@@ -2,10 +2,10 @@
 
 # Trabajo Practico #4: Platformio y VsCode
 Proyecto del periodo #1. Programando el ESP32
- 
+ <br>
 <img src="https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/master/imagenes/logo2.png" align="left" height="300">
 
-
+<br>
 "Desarrollo de un sistema de monitoreo y control de temperatura utilizando ESP32,
 PlatformIO y VSCode"
 
