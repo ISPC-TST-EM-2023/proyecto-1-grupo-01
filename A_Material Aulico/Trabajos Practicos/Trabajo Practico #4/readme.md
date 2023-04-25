@@ -9,8 +9,7 @@ Proyecto del periodo #1. Programando el ESP32
 
 
 
-"Desarrollo de un sistema de monitoreo y control de temperatura utilizando ESP32,
-PlatformIO y VSCode"
+## "Desarrollo de un sistema de monitoreo y control de temperatura utilizando ESP32, PlatformIO y VSCode"
 
 
 
