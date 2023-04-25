@@ -3,7 +3,6 @@ Proyecto del periodo #1. Programando el ESP32
 
 <img src="https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/master/imagenes/logo2.png" align="left" height="300">
 
-
 ## "Desarrollo de un sistema de monitoreo y control de temperatura utilizando ESP32, PlatformIO y VSCode"
 
 <img src="https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/master/A_Material%20Aulico/Trabajos%20Practicos/Trabajo%20Practico%20%234/img/esp.gif" align="left" height="300">
