@@ -11,6 +11,10 @@ PlatformIO y VSCode"
 
 ---
 
+<img src="https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/master/A_Material%20Aulico/Trabajos%20Practicos/Trabajo%20Practico%20%234/img/esp.gif" align="left" height="300">
+
+---
+
 ### Objetivos:
 
 - Familiarizarse con el entorno de programación de PlatformIO y VSCode
