@@ -1,0 +1,18 @@
+#include <Arduino.h>
+
+#define TEMPERATURE_PIN A0 // Pin utilizado para leer la señal del sensor de temperatura
+
+void setup() {
+  Serial.begin(9600); // Iniciar la comunicación serial a 9600 baudios
+}
+
+void loop() {
+  int temperature = analogRead(TEMPERATURE_PIN); // Leer el valor analógico de la señal del sensor de temperatura
+  float temperature_celsius = (temperature * 5.0 / 1024.0 - 0.5) * 100.0; // Convertir el valor analógico a grados Celsius
+
+  Serial.print("Temperatura: ");
+  Serial.print(temperature_celsius);
+  Serial.println(" C");
+
+  delay(1000); // Esperar un segundo antes de leer la temperatura de nuevo
+}
