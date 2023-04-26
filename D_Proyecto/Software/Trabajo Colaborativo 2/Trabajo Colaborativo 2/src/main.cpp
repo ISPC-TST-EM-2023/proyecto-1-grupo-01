@@ -27,12 +27,8 @@ void encender_led(){
 void setup() {
 
   // Iniciamos la comunicación serial a 115200 b/s
-  
+
   Serial.begin(115200);
-
-  // Mensaje por puerto serial
-
-  Serial.println("Proceso exitoso !!!");
 
   // Configuramos Led como salida
 
@@ -52,6 +48,9 @@ void setup() {
   attachInterrupt(dcl_3,encender_led,FALLING);
   attachInterrupt(dcl_4,encender_led,FALLING);
 
+  // Mensaje por puerto serial
+
+  Serial.println("Proceso exitoso !!!");
 }
 
 void loop(){
