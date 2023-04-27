@@ -83,10 +83,15 @@ void setup() {
 
   //llamo a la función led con cada interrupción
 
-  attachInterrupt(btn1, ISR_1, FALLING);  // LOW/HIGH/FALLING/RISING/CHANGE
-  attachInterrupt(btn2, ISR_2, FALLING);  // LOW/HIGH/FALLING/RISING/CHANGE  
-  attachInterrupt(btn3, ISR_3, FALLING);  // LOW/HIGH/FALLING/RISING/CHANGE
-  attachInterrupt(btn4, ISR_4, FALLING);  // LOW/HIGH/FALLING/RISING/CHANGE 
+  
+  // RISING: cambia de LOW a HIGT cuando apretamos el boton
+  // FALLING: cambia de HIGT a LOW cuando apretamos el boton
+  // CHANGE: Cambia como apretar el boton como al soltarlo
+
+  attachInterrupt(btn1, ISR_1, RISING);  // LOW/HIGH/FALLING/RISING/CHANGE
+  attachInterrupt(btn2, ISR_2, RISING);  // LOW/HIGH/FALLING/RISING/CHANGE  
+  attachInterrupt(btn3, ISR_3, RISING);  // LOW/HIGH/FALLING/RISING/CHANGE
+  attachInterrupt(btn4, ISR_4, RISING);  // LOW/HIGH/FALLING/RISING/CHANGE 
 
   // Mensaje por puerto serial
 
