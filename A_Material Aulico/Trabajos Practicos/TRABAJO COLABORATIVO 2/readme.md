@@ -22,7 +22,7 @@
 ### Development Team
 
 - **Joaquin Cortabarria**
-1. Trabajo Colaborativo 2 - Protocolos de red y la configuracion
+1. Trabajo Colaborativo 2 - Protocolos de red y la configuracion.
 
 - **Octavio Castro**
 1. Trabajo Colaborativo 2 - MQTT o HTTP
