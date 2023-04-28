@@ -39,7 +39,6 @@ Damos la bienvenida a todos los colaboradores 💙
 ### Development Team
 
 - **Joaquin Cortabarria**
-- **Octavio Castro**
 - **Alan Pierola**
 - **Joaquin Dorgnach**
 - **Florencia Arias**
