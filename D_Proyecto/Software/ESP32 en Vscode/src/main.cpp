@@ -77,7 +77,7 @@ void ISR_4(){
         estadoLed4 = "on";
         digitalWrite(Led4, HIGH);
       } else{
-        estadoLed2 = "off";
+        estadoLed4 = "off";
         digitalWrite(Led4, LOW);
       }
     } 
@@ -87,9 +87,9 @@ const char* ssid = "peluqueria";
 const char* password = "w2042slg";
 
 /* Detalles de las IP */
-IPAddress local_ip();
-IPAddress gateway();
-IPAddress subnet();
+IPAddress local_ip(192,168,1,1);
+IPAddress gateway(192,168,1,1);
+IPAddress subnet(255,255,255,0);
 
 // Establezca el número de puerto del servidor web en 80
 WiFiServer server(80);
@@ -115,13 +115,13 @@ void setup() {
   digitalWrite(Led1, LOW);
   digitalWrite(Led2, LOW);
   digitalWrite(Led3, LOW);
-  digitalWrite(Led4, HIGH);
+  digitalWrite(Led4, LOW);
   // Configuramos las entradas digitales como interrupciones
 
-  pinMode(btn1, INPUT_PULLDOWN);       // INPUT_PULLDOWN/INPUT_PULLUP
-  pinMode(btn2, INPUT_PULLDOWN);       // INPUT_PULLDOWN/INPUT_PULLUP
-  pinMode(btn3, INPUT_PULLDOWN);       // INPUT_PULLDOWN/INPUT_PULLUP
-  pinMode(btn4, INPUT_PULLDOWN);       // INPUT_PULLDOWN/INPUT_PULLUP
+  pinMode(btn1, INPUT_PULLUP);       // INPUT_PULLDOWN/INPUT_PULLUP
+  pinMode(btn2, INPUT_PULLUP);       // INPUT_PULLDOWN/INPUT_PULLUP
+  pinMode(btn3, INPUT_PULLUP);       // INPUT_PULLDOWN/INPUT_PULLUP
+  pinMode(btn4, INPUT_PULLUP);       // INPUT_PULLDOWN/INPUT_PULLUP
 
   //llamo a la función led con cada interrupción
   // RISING: cambia de LOW a HIGH cuando apretamos el boton
@@ -152,21 +152,7 @@ void setup() {
 void loop(){
 
 
-  Serial.print("ADC_1 Value: ");
-  Serial.println(analogRead(adc_1));
-  delay(2000);
-
-  Serial.print("ADC_2 Value: ");
-  Serial.println(analogRead(adc_2));
-  delay(2000);
-
-  Serial.print("ADC_3 Value: ");
-  Serial.println(analogRead(adc_3));
-  delay(2000);
-
-  Serial.print("ADC_4 Value: ");
-  Serial.println(analogRead(adc_4));
-  delay(2000);
+// en esta linea iria la lectura de los 4 potes que se imprimen por serial
 
   WiFiClient client = server.available();   // Escuche los clientes entrantes
 
@@ -197,7 +183,6 @@ void loop(){
               Serial.println("LED Nº1 on");
               estadoLed1 = "on";
               digitalWrite(Led1, HIGH);
-              
             } else if (header.indexOf("GET /26/off") >= 0) {
               Serial.println("LED Nº1 off");
               estadoLed1 = "off";
@@ -243,7 +228,7 @@ void loop(){
             client.println(".button2 {background-color: #555555;}</style></head>");
             
             // Encabezado de página web
-            client.println("<body><h1>ESP32 Web Server proyecto01Grupo01</h1>");
+            client.println("<body><h1>ESP32 Web Server Proyecto01Grupo01</h1>");
             
             // Muestra el estado actual y los botones ON/OFF para GPIO 25 
             client.println("<p>LED 1 - Estado " + estadoLed1 + "</p>");
@@ -266,17 +251,17 @@ void loop(){
             client.println("<p>LED 3 - Estado " + estadoLed3 + "</p>");
             // Si el estado de salida 27 está apagado, muestra el botón ENCENDIDO       
             if (estadoLed3=="off") {
-              client.println("<p><a href=\"/26/on\"><button class=\"button\">ON</button></a></p>");
+              client.println("<p><a href=\"/28/on\"><button class=\"button\">ON</button></a></p>");
             } else {
-              client.println("<p><a href=\"/26/off\"><button class=\"button button2\">OFF</button></a></p>");
+              client.println("<p><a href=\"/28/off\"><button class=\"button button2\">OFF</button></a></p>");
             }                
             // Muestra el estado actual y los botones ON/OFF para GPIO 14 
             client.println("<p>LED 4 - Estado " + estadoLed4 + "</p>");
             // Si el estado de salida 14 está apagado, muestra el botón ENCENDIDO  
             if (estadoLed4=="off") {
-              client.println("<p><a href=\"/27/on\"><button class=\"button\">ON</button></a></p>");
+              client.println("<p><a href=\"/29/on\"><button class=\"button\">ON</button></a></p>");
             } else {
-              client.println("<p><a href=\"/27/off\"><button class=\"button button2\">OFF</button></a></p>");
+              client.println("<p><a href=\"/29/off\"><button class=\"button button2\">OFF</button></a></p>");
             }
             client.println("</body></html>");
             
