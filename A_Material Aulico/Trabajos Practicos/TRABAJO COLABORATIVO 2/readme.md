@@ -7,8 +7,36 @@
 -  Además, poder actuar sobre
 - 4 Salidas Digitales
 
-* Todo esto se debe implementar sobre un dashboard acorde definido por el PO.*
-* Este desarrollo debe quedar plasmado en el repositorio generado.*
+1. Todo esto se debe implementar sobre un dashboard acorde definido por el PO.*
+2. Este desarrollo debe quedar plasmado en el repositorio generado.*
 ## División de tareas
 
-*A asignar*
+### Product Owner
+
+- **Ferreyra Gastón**
+
+### Scrum Master
+
+- **Matias Humaran**
+1.TP4 - Implementación control de temperatura con un aplicación móvil
+### Development Team
+
+- **Joaquin Cortabarria**
+1. Trabajo Colaborativo 2 - Protocolos de red y la configuracion
+
+- **Octavio Castro**
+1. Trabajo Colaborativo 2 - MQTT o HTTP
+
+- **Alan Pierola**
+1. Trabajo Colaborativo 2 - Desarrollo Web
+
+- **Joaquin Dorgnach**
+- **Florencia Arias**
+1. Trabajo Colaborativo 2 -Documentacion
+
+- **Ulises Ale**
+1. Trabajo Colaborativo 2 - Micro ESP32
+
+- **Agustin Correa**
+
+--- 
