@@ -18,3 +18,4 @@
 
 # Proyecto Terminado
 ![proyectoesp32](recursos/cfba7c73-a66e-4744-ad46-66f686aafdbf.jpg)
+![proyectoesp32on](recursos/prendido.jpg)
