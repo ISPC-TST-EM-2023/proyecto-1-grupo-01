@@ -47,3 +47,6 @@ utilizando ESP32, PlatformIO y VSCode.
 ---
 [video1]: https://randomnerdtutorials.com/esp32-temperature-controlled-relayarduino-ide/
 [video2]: https://randomnerdtutorials.com/esp32-web-server-arduino-ide/
+
+### Link a Wokwi con simulador para el TP4
+- https://wokwi.com/projects/363298917800757249
