@@ -19,3 +19,6 @@
 # Proyecto Terminado
 ![proyectoesp32](recursos/cfba7c73-a66e-4744-ad46-66f686aafdbf.jpg)
 ![proyectoesp32on](recursos/prendido.jpg)
+
+# Click en la imagen debajo para ver un demo de funcionamiento:
+[![proyectoesp32](https://uncommunitymanager.es/wp-content/uploads/seo_google_youtube.jpg)](https://www.canva.com/design/DAFhfdoRtQ8/QRC15XW2IVCeiDmZXoTOhg/watch?utm_content=DAFhfdoRtQ8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
