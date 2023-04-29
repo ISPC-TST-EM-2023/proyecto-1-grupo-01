@@ -46,7 +46,7 @@ Damos la bienvenida a todos los colaboradores 💙
 
 --- 
 
-### 🎥 Listado de videos
+### 🎥 Presentación del Equipo de trabajo
 
 <!-- YT:START -->
 - [Video - Presentación Grupal][video1]
