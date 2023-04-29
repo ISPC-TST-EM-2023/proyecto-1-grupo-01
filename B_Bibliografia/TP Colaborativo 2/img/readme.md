@@ -1,5 +1,7 @@
 # Imágenes del ESP32
 
+<<<<<<< HEAD
+=======
 
 - **PINES ESP32**  [Ver Github](https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/master/B_Bibliografia/TP%20Colaborativo%202/img/ESP32%20Nodemcu.jpg)
 - **PINES ADC** [Ver Github](https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/master/B_Bibliografia/TP%20Colaborativo%202/img/ESP32-ADC-Pins.png)
@@ -18,6 +20,7 @@
 - **DIAGRAMA EJEMPLO CON LEDS** [Ver Github] (https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/master/B_Bibliografia/TP%20Colaborativo%202/img/diagrama_ejemplo.jpg)
 
 
+>>>>>>> 60889b0e1e1d821ead2c83c2f8cc258aaa282161
 Este directorio contiene imágenes del ESP32 utilizadas en diferentes proyectos. Las imágenes muestran el ESP32 conectado a diferentes dispositivos y sensores, así como en diferentes configuraciones.
 
 Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con nosotros.
