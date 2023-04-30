@@ -53,6 +53,17 @@ Damos la bienvenida a todos los colaboradores 💙
 
 <!-- YT:END -->
 
+---
+
+### 🎥 Presentación Trabajo colaborativo 2
+
+<!-- YT:START -->
+- [Video - Presentación Código][video2]
+
+<!-- YT:END -->
+
 
 ---
 [video1]: https://www.youtube.com/watch?v=K6vlPgaKKyE
+[video2]: https://www.youtube.com/watch?v=WK15YGSrY2Q
+---
