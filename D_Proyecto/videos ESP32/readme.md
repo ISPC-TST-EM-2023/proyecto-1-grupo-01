@@ -1,1 +1,5 @@
-Este es el archivo readme estándar que introduce cada carpeta
+Aqui se subiran los videos relacionados al proyecto
+
+### 🎥 Presentación Trabajo colaborativo 2
+
+https://www.youtube.com/watch?v=WK15YGSrY2Q
