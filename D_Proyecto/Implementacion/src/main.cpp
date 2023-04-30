@@ -83,8 +83,8 @@ void ISR_4(){
     } 
 }
 // Reemplace con sus credenciales de red
-const char* ssid = "peluqueria";
-const char* password = "w2042slg";
+const char* ssid = "TP-Link GASTON";
+const char* password = "gastonloco";
 
 /* Detalles de las IP */
 IPAddress local_ip(192,168,1,1);
