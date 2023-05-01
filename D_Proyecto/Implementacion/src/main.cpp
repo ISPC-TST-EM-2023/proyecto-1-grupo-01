@@ -86,10 +86,6 @@ void ISR_4(){
 const char* ssid = "TP-Link GASTON";
 const char* password = "gastonloco";
 
-/* Detalles de las IP */
-IPAddress local_ip(192,168,1,1);
-IPAddress gateway(192,168,1,1);
-IPAddress subnet(255,255,255,0);
 
 // Establezca el número de puerto del servidor web en 80
 WiFiServer server(80);
@@ -136,6 +132,7 @@ void setup() {
   // Conéctese a la red Wi-Fi con SSID y contraseña
   Serial.print("Conectando a ");
   Serial.println(ssid);
+  //WiFi.config(ip); //ingresar parametros de direccion IP cuando no exista servidor DHCP en la red
   WiFi.begin(ssid, password);
   while (WiFi.status() != WL_CONNECTED) {
     delay(500);
